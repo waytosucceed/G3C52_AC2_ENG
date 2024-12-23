@@ -1,0 +1,202 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did Emma discover in her backyard one morning?",
+    "options": [
+      "A red aeroplane",
+      "A silver spaceship",
+      "A blue helicopter"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Who was Zeno?",
+    "options": [
+      "A friendly alien",
+      "A friendly robot from the Moon",
+      "A human astronaut"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "How did Zeno's spaceship look?",
+    "options": [
+      "It was large with red lights",
+      "It was small with green lights",
+      "It was small with glowing blue lights"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "What did Emma see as the spaceship took off?",
+    "options": [
+      "The Earth getting smaller and smaller",
+      "The Moon is getting bigger and bigger",
+      "Other spaceships flying by"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What was special about the Moon rabbits?",
+    "options": [
+      "They had long tails",
+      "They had glowing ears and were purple",
+      "They had wings"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What did Zeno give Emma before she left?",
+    "options": [
+      "A glowing stone",
+      "A crystal tree",
+      "A purple rabbit"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "How did Emma feel about her adventure?",
+    "options": [
+      "Scared and worried",
+      "Excited and amazed",
+      "Bored and tired"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What unexpected things did Emma find on the Moon?",
+    "options": [
+      "Tall buildings and cars",
+      "Glowing plants and crystal trees",
+      "Regular trees and flowers"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which word best describes Zeno's personality?",
+    "options": [
+      "Friendly",
+      "Grumpy",
+      "Shy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "When did this adventure take place?",
+    "options": [
+      "Late at night",
+      "One bright and sunny morning",
+      "During the afternoon"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "What is the main genre of this story?",
+    "options": [
+      "Historical fiction",
+      "Mystery",
+      "Science fiction"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "What made the Moon different from what Emma expected?",
+    "options": [
+      "It was full of life and colour",
+      "It was dark and empty",
+      "It was made of cheese"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "How did Emma respond to Zeno's invitation?",
+    "options": [
+      "She refused",
+      "She waited a day",
+      "She nodded without thinking twice"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What did Emma think about sharing her adventure with friends?",
+    "options": [
+      "They would never believe her",
+      "They would all want to go",
+      "She wanted to keep it secret"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What feature of the crystal trees was mentioned?",
+    "options": [
+      "They were sparkling",
+      "They were small",
+      "They were blue"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What science fiction theme is shown in the story?",
+    "options": [
+      "Space exploration and discovery",
+      "Alien invasion",
+      "World destruction"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "What type of science fiction transportation is featured?",
+    "options": [
+      "Time machine",
+      "Teleporter",
+      "Spaceship"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What shows that this is a peaceful science fiction story?",
+    "options": [
+      "There are space battles",
+      "Friendly interactions between humans and robots",
+      "Advanced weapons"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "In the sentence “She felt like floating in a dream,” which is a pronoun?",
+    "options": [
+      "She",
+      "Like",
+      "Dream"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What science fiction element was not in the story?",
+    "options": [
+      "Time travel",
+      "Robots",
+      "Spaceships"
+    ],
+    "correct": 0
+  }
+]
